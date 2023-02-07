@@ -1,0 +1,72 @@
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 40px;
+    margin: 10px;
+
+}
+.body {
+    background-color: darkgrey;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+.main {
+    width:300px;
+    height: 300px;
+    background-color: aqua;
+}
+/* 
+1
+li:first-child {
+    color: red;
+}*/
+
+/* 
+2
+li:last-child {
+    color: green;
+} */
+
+/* 
+3
+li:first-child {
+    color: red;
+}
+li:last-child {
+    color: green;
+}  */
+/* 
+4
+li:nth-child(3) {
+    color: red;
+} */
+/* 
+5
+li:nth-child(odd) {
+    color: red;
+}
+li:nth-child(even) {
+    color: green;
+} */
+/* 
+6
+li:nth-child(3n) {
+    color: red;
+} */
+/* 
+7
+li:nth-last-child(2) {
+    color: red;
+} */
+/* 
+8
+li:only-child {
+    color: red;
+} */
+/* 
+9
+li:empty {
+ color: blue;
+} */
