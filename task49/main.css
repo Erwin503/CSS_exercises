@@ -17,3 +17,18 @@ div {
     height: 300px;
     background-color: aqua;
 }
+p:first-of-type {
+    color: red;
+}
+p:last-of-type {
+    color: red;
+}
+p:nth-last-of-type(3) {
+    color: red;
+}
+p:nth-of-type(3) {
+    color: red;
+}
+h2:only-of-type {
+    color:red;
+}
