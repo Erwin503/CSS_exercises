@@ -1,0 +1,45 @@
+div {
+    width: 200px;
+	height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+
+}
+.body {
+    background-color: darkgrey;
+    width:100%;
+    height: 400px;
+    margin: 0;
+}
+.main {
+
+    background-color: aqua;
+}
+.x {
+	margin: 50px;
+    height: 300px;
+    border: 1px solid orange;
+}
+.y {
+	display: block;
+	width: 400px;
+	border: 1px dashed blue;
+}
+
+.z1{
+	width: 400px;
+    border: 1px dashed blue;
+}
+
+.z2{
+	margin: 25px;
+    border: 1px dashed green;
+}
+
+.z3{
+	height: 200px;
+    margin: 25px;
+    border: 1px solid red;
+}
