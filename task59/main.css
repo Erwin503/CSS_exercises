@@ -17,12 +17,7 @@ div {
 
     background-color: aqua;
 }
-.x {
-	list-style-type: square;
-}
-.y {
-	list-style-type: circle;
-}
-.z {
-	list-style-type: none;
+#test1 {
+	border: 1px solid green;
+	border-radius: 50%;
 }
